@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "805228849278",
+    "firebase_url": "https://fluss-7bb4f.firebaseio.com",
+    "project_id": "fluss-7bb4f",
+    "storage_bucket": "fluss-7bb4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805228849278:android:c2534de1448ee7ad94d02f",
+        "android_client_info": {
+          "package_name": "com.aborteddevelopers.videoguysrinath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805228849278-3g21rbag87l2dcqujd25pefp6e246bm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aborteddevelopers.videoguysrinath",
+            "certificate_hash": "2113b78671fb2a943af44709cc014e2192a59553"
+          }
+        },
+        {
+          "client_id": "805228849278-9avipp5fsuqk4igbme04t1vsc67d58ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ2Xhed1BK7GRLrgN7BukuQwYIxjeaso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805228849278-9avipp5fsuqk4igbme04t1vsc67d58ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
